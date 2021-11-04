@@ -1,1 +1,131 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== Sweden ======" tvg-logo="" group-title="",===== Sweden ======
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/68874
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Events: Corona Virus - Covid 19" tvg-logo="" group-title="Live: Netherland",Events: Corona Virus - Covid 19
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/38446
+#EXTINF:-1 tvg-ID="svt1.se" tvg-name="VIP SE: SVT 1HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: SVT 1HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/4278
+#EXTINF:-1 tvg-ID="svt1.se" tvg-name="SE: SVT 1" tvg-logo="[]" group-title="Live: Sweden",SE: SVT 1
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/513
+#EXTINF:-1 tvg-ID="svt2.se" tvg-name="VIP SE: SVT 2HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: SVT 2HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/6885
+#EXTINF:-1 tvg-ID="svt2.se" tvg-name="SE: SVT 2" tvg-logo="http://www.camdserver.com/sb_data/files/logo/svt-2-hd.jpg" group-title="Live: Sweden",SE: SVT 2
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1064
+#EXTINF:-1 tvg-ID="svt24.se" tvg-name="VIP SE: SVT 24/B HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: SVT 24/B HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/2661
+#EXTINF:-1 tvg-ID="kunskapskanalen.se" tvg-name="SE: Kunskapskanalen HD" tvg-logo="[" group-title="Live: Sweden",SE: Kunskapskanalen HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1120
+#EXTINF:-1 tvg-ID="tv3.se" tvg-name="VIP SE: TV3 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV3 Sweden HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/9020
+#EXTINF:-1 tvg-ID="tv3.se" tvg-name="SE: TV3 Sweden" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv3-sweden.jpg" group-title="Live: Sweden",SE: TV3 Sweden
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/3512
+#EXTINF:-1 tvg-ID="tv4.se" tvg-name="VIP SE: TV4 Sweden FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: TV4 Sweden FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/15346
+#EXTINF:-1 tvg-ID="tv4.se" tvg-name="VIP SE: TV4 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV4 Sweden HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/9019
+#EXTINF:-1 tvg-ID="tv4.se" tvg-name="SE: TV 4" tvg-logo="[" group-title="Live: Sweden",SE: TV 4
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/6003
+#EXTINF:-1 tvg-ID="tv4guld.se" tvg-name="SE: TV4 Guld" tvg-logo="[""]" group-title="Live: Sweden",SE: TV4 Guld
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1122
+#EXTINF:-1 tvg-ID="tv4film.se" tvg-name="SE: TV4 Film" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv4-film.jpg" group-title="Live: Sweden",SE: TV4 Film
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/509
+#EXTINF:-1 tvg-ID="tv4fakta.se" tvg-name="SE: TV4 Fakta" tvg-logo="[" group-title="Live: Sweden",SE: TV4 Fakta
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1110
+#EXTINF:-1 tvg-ID="kanal5.se" tvg-name="VIP SE: Kanal5 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal5 Sweden HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/9018
+#EXTINF:-1 tvg-ID="kanal5.se" tvg-name="SE: Kanal 5" tvg-logo="[" group-title="Live: Sweden",SE: Kanal 5
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7410
+#EXTINF:-1 tvg-ID="kanal5.se" tvg-name="VIP SE: Kanal 5 FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal 5 FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/15344
+#EXTINF:-1 tvg-ID="tv6.se" tvg-name="VIP SE: TV6 Sweden FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: TV6 Sweden FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/15345
+#EXTINF:-1 tvg-ID="tv6.se" tvg-name="VIP SE: TV6 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV6 Sweden HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7503
+#EXTINF:-1 tvg-ID="tv6.se" tvg-name="SE: TV6 Sweden" tvg-logo="http://www.camdserver.com/sb_data/files/logo/tv6-sweden.jpg" group-title="Live: Sweden",SE: TV6 Sweden
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/508
+#EXTINF:-1 tvg-ID="sjuan.se" tvg-name="VIP SE: Sjuan 7 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Sjuan 7 HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/20236
+#EXTINF:-1 tvg-ID="sjuan.se" tvg-name="SE: Sjuan" tvg-logo="[" group-title="Live: Sweden",SE: Sjuan
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1111
+#EXTINF:-1 tvg-ID="tv8.se" tvg-name="VIP SE: TV8 Sweden HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV8 Sweden HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/22223
+#EXTINF:-1 tvg-ID="tv8.se" tvg-name="SE: TV8 Sweden" tvg-logo="[""]" group-title="Live: Sweden",SE: TV8 Sweden
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/512
+#EXTINF:-1 tvg-ID="kanal9.se" tvg-name="VIP SE: Kanal 9 FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal 9 FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/22222
+#EXTINF:-1 tvg-ID="kanal9.se" tvg-name="SE: Kanal 9HD" tvg-logo="[" group-title="Live: Sweden",SE: Kanal 9HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1127
+#EXTINF:-1 tvg-ID="tv10.se" tvg-name="VIP SE: TV 10 HD" tvg-logo="[" group-title="Live: Sweden",VIP SE: TV 10 HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/22549
+#EXTINF:-1 tvg-ID="tv10.se" tvg-name="SE: TV10 HD" tvg-logo="[" group-title="Live: Sweden",SE: TV10 HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1117
+#EXTINF:-1 tvg-ID="kanal10.se" tvg-name="SE: Kanal 10 SV" tvg-logo="" group-title="Live: Sweden",SE: Kanal 10 SV
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7860
+#EXTINF:-1 tvg-ID="kanal11.se" tvg-name="VIP SE: Kanal 11 FHD" tvg-logo="[" group-title="Live: Sweden",VIP SE: Kanal 11 FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/22548
+#EXTINF:-1 tvg-ID="kanal11.se" tvg-name="SE: Kanal 11 HD" tvg-logo="http://www.camdserver.com/sb_data/files/logo/kanal-11.jpg" group-title="Live: Sweden",SE: Kanal 11 HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/2930
+#EXTINF:-1 tvg-ID="tv12.se" tvg-name="VIP SE: TV12 Sweden FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: TV12 Sweden FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/22597
+#EXTINF:-1 tvg-ID="tv12.se" tvg-name="SE: TV12 Sweden HD" tvg-logo="[" group-title="Live: Sweden",SE: TV12 Sweden HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/517
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Dagens Industri TV HD" tvg-logo="" group-title="Live: Sweden",VIP SE: Dagens Industri TV HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/41088
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Big Brother HD" tvg-logo="" group-title="Live: Sweden",VIP SE: Big Brother HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/66512
+#EXTINF:-1 tvg-ID="boomerang.se" tvg-name="SE: Boomerang [Multi-Audio]" tvg-logo="[""]" group-title="Live: Sweden",SE: Boomerang [Multi-Audio]
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7105
+#EXTINF:-1 tvg-ID="nickelodeon.se" tvg-name="SE: Nickelodeon" tvg-logo="[""]" group-title="Live: Sweden",SE: Nickelodeon
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/3563
+#EXTINF:-1 tvg-ID="cartoonnetwork.se" tvg-name="SE: Cartoon Network [Multi-Audio]" tvg-logo="[""]" group-title="Live: Sweden",SE: Cartoon Network [Multi-Audio]
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/504
+#EXTINF:-1 tvg-ID="nickjr.se" tvg-name="SE: Nick Jr" tvg-logo="[" group-title="Live: Sweden",SE: Nick Jr
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/2940
+#EXTINF:-1 tvg-ID="nicktoons.se" tvg-name="SE: Nicktoons [Multi-Audio]" tvg-logo="[" group-title="Live: Sweden",SE: Nicktoons [Multi-Audio]
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/14184
+#EXTINF:-1 tvg-ID="NULL" tvg-name="SE: MovieTime Kids FHD" tvg-logo="" group-title="Live: Sweden",SE: MovieTime Kids FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/26392
+#EXTINF:-1 tvg-ID="Barnkanalen SE" tvg-name="SE: Barnmusik HD" tvg-logo="" group-title="Live: Sweden",SE: Barnmusik HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/15341
+#EXTINF:-1 tvg-ID="disneyxd.se" tvg-name="SE: Disney + HD" tvg-logo="[" group-title="Live: Sweden",SE: Disney + HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7101
+#EXTINF:-1 tvg-ID="disneyjunior.se" tvg-name="SE: Disney Junior" tvg-logo="[""]" group-title="Live: Sweden",SE: Disney Junior
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7102
+#EXTINF:-1 tvg-ID="disneychannel.se" tvg-name="SE: Disney Channel" tvg-logo="[""]" group-title="Live: Sweden",SE: Disney Channel
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7103
+#EXTINF:-1 tvg-ID="discoveryworld.se" tvg-name="SE: Discovery World" tvg-logo="" group-title="Live: Sweden",SE: Discovery World
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1129
+#EXTINF:-1 tvg-ID="discoverychannel.se" tvg-name="SE: Discovery Channel HD" tvg-logo="[" group-title="Live: Sweden",SE: Discovery Channel HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/6888
+#EXTINF:-1 tvg-ID="discoveryscience.se" tvg-name="SE: Discovery Science" tvg-logo="" group-title="Live: Sweden",SE: Discovery Science
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/15342
+#EXTINF:-1 tvg-ID="investigationdiscovery.se" tvg-name="SE: Discovery Investigation HD" tvg-logo="[""]" group-title="Live: Sweden",SE: Discovery Investigation HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/22560
+#EXTINF:-1 tvg-ID="natgeo.se" tvg-name="SE: National Geographic HD" tvg-logo="[" group-title="Live: Sweden",SE: National Geographic HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1126
+#EXTINF:-1 tvg-ID="natgeowild.se" tvg-name="SE: Nat Geo Wild HD" tvg-logo="[" group-title="Live: Sweden",SE: Nat Geo Wild HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/2757
+#EXTINF:-1 tvg-ID="animalplanet.se" tvg-name="SE: Animal Planet HD" tvg-logo="[""]" group-title="Live: Sweden",SE: Animal Planet HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/2934
+#EXTINF:-1 tvg-ID="history.se" tvg-name="SE: History HD" tvg-logo="[""]" group-title="Live: Sweden",SE: History HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/10558
+#EXTINF:-1 tvg-ID="h2.se" tvg-name="SE: H2 HD" tvg-logo="[" group-title="Live: Sweden",SE: H2 HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/10559
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SE: Trace Urban FHD" tvg-logo="" group-title="Live: Sweden",VIP SE: Trace Urban FHD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/27988
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SE: FightBox HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: FightBox HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/29089
+#EXTINF:-1 tvg-ID="sfkanalen.se" tvg-name="SE: SF Kanalen" tvg-logo="[]" group-title="Live: Sweden",SE: SF Kanalen
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/7099
+#EXTINF:-1 tvg-ID="paramountnetwork.se" tvg-name="SE: Paramount Network" tvg-logo="[" group-title="Live: Sweden",SE: Paramount Network
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1112
+#EXTINF:-1 tvg-ID="bbcbrit.se" tvg-name="SE: BBC Brit HD" tvg-logo="[""]" group-title="Live: Sweden",SE: BBC Brit HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/10546
+#EXTINF:-1 tvg-ID="bbcearth.se" tvg-name="SE: BBC Earth HD" tvg-logo="[" group-title="Live: Sweden",SE: BBC Earth HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/10560
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SE: BBC First HD" tvg-logo="[""]" group-title="Live: Sweden",VIP SE: BBC First HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/27997
+#EXTINF:-1 tvg-ID="tlc.se" tvg-name="SE: TLC HD" tvg-logo="[" group-title="Live: Sweden",SE: TLC HD
+http://clientportal-proiptv.club:8080/KdrdpyArp0/PW6cSWh0hD/1124
+#EXTINF:-1 tvg-ID="vh1.se
